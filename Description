@@ -1,0 +1,6 @@
+Clone project on root folder run " npm install "
+go on backend folder and run  "npm install"
+after it on root folder run "npm start "
+on backend folder run "npm start"
+open new terminal and run "mongod" to start mongodb server
+
